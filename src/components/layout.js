@@ -39,6 +39,7 @@ export default function Layout({ children }) {
         to={`/about/`}
         css={css`
           float: right;
+          color: black;
         `}
       >
         About
